@@ -1,0 +1,25 @@
+instructor_id,first_name,last_name,email,phone,designation,experience_years,joining_date,department_id
+1,Jatin,Wali,widishapalan@example.org,00621186309,Associate Professor,9,2025-11-08,1
+2,Yashvi,Brahmbhatt,lipikabehl@example.org,4123406297,Associate Professor,11,2020-01-27,1
+3,Urishilla,Amble,sanyabal@example.org,+913167515220,Associate Professor,8,2025-10-15,1
+4,Charles,Rout,nattlaksh@example.com,2067558060,Professor,6,2022-12-03,2
+5,Libni,Purohit,munimugdha@example.org,+915277943355,Assistant Professor,9,2019-12-12,2
+6,Gavin,Ramesh,gjaggi@example.net,+918246147738,Associate Professor,20,2020-12-30,2
+7,Pahal,Suri,yauvani74@example.org,8664956169,Professor,3,2022-08-05,3
+8,Yug,Sankaran,quincy75@example.org,07080737197,Associate Professor,7,2023-05-01,3
+9,Tara,Karan,gardearya@example.net,+914578921261,Professor,3,2022-08-18,3
+10,Urishilla,Sandhu,dayitaghosh@example.net,+916434119198,Associate Professor,17,2019-03-22,4
+11,William,Ganesh,tanveer42@example.com,6194884253,Associate Professor,20,2024-01-14,4
+12,Udarsh,Char,suhaniboase@example.org,08086598571,Associate Professor,14,2020-10-12,4
+13,Madhav,Bawa,darayashvi@example.org,+912425537392,Professor,11,2024-03-11,5
+14,Xalak,Singhal,indrajitpandya@example.com,2248049609,Professor,16,2025-05-04,5
+15,Abha,Virk,sbassi@example.org,09416412693,Professor,15,2022-06-22,5
+16,Kiaan,Raja,quincy51@example.org,07222647097,Associate Professor,8,2019-11-04,6
+17,Manbir,Keer,amaira08@example.net,+910635582820,Associate Professor,13,2021-04-29,6
+18,Vincent,Divan,victor47@example.net,+911469224677,Assistant Professor,5,2018-12-21,6
+19,Brijesh,Shukla,dhritirege@example.com,05009065363,Associate Professor,15,2024-08-22,7
+20,Anvi,Chaudhry,yoshita63@example.org,+913246549580,Professor,18,2021-01-07,7
+21,Hemani,Basak,rishibassi@example.com,6575379833,Professor,4,2026-05-22,7
+22,Vedant,Ramaswamy,darikadas@example.com,7238869647,Associate Professor,15,2017-03-02,8
+23,Zarna,Rajagopalan,george03@example.org,+913473350240,Professor,11,2019-03-26,8
+24,Abdul,Wason,agastyapant@example.org,+912683493948,Assistant Professor,19,2023-07-31,8

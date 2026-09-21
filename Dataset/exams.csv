@@ -1,0 +1,41 @@
+exam_id,course_id,exam_name,exam_type,exam_date,total_marks
+1,20,Mid Term Exam 1,Mid Term,2025-09-28,75
+2,16,Quiz Exam 2,Quiz,2025-11-08,50
+3,20,Practical Exam 3,Practical,2025-11-04,75
+4,9,Mid Term Exam 4,Mid Term,2026-05-17,25
+5,12,Final Exam 5,Final,2026-04-25,25
+6,13,Quiz Exam 6,Quiz,2026-02-13,25
+7,6,Quiz Exam 7,Quiz,2025-10-05,50
+8,8,Quiz Exam 8,Quiz,2025-11-29,50
+9,3,Final Exam 9,Final,2026-05-11,100
+10,5,Quiz Exam 10,Quiz,2026-04-11,50
+11,12,Quiz Exam 11,Quiz,2025-09-02,100
+12,6,Mid Term Exam 12,Mid Term,2026-02-23,100
+13,5,Practical Exam 13,Practical,2026-05-06,75
+14,6,Practical Exam 14,Practical,2026-04-07,75
+15,11,Mid Term Exam 15,Mid Term,2026-07-04,75
+16,5,Final Exam 16,Final,2026-05-09,75
+17,13,Mid Term Exam 17,Mid Term,2026-05-20,50
+18,15,Mid Term Exam 18,Mid Term,2026-03-19,100
+19,10,Practical Exam 19,Practical,2026-01-16,100
+20,15,Practical Exam 20,Practical,2026-05-12,50
+21,9,Final Exam 21,Final,2026-03-07,50
+22,7,Mid Term Exam 22,Mid Term,2026-03-06,100
+23,16,Final Exam 23,Final,2025-12-29,100
+24,1,Final Exam 24,Final,2026-02-24,25
+25,17,Practical Exam 25,Practical,2025-08-22,25
+26,15,Practical Exam 26,Practical,2025-08-19,25
+27,8,Practical Exam 27,Practical,2025-12-14,50
+28,18,Final Exam 28,Final,2025-12-27,25
+29,8,Practical Exam 29,Practical,2026-01-23,50
+30,19,Quiz Exam 30,Quiz,2025-11-01,75
+31,17,Mid Term Exam 31,Mid Term,2025-12-30,75
+32,3,Final Exam 32,Final,2026-06-26,100
+33,7,Mid Term Exam 33,Mid Term,2025-12-31,100
+34,13,Practical Exam 34,Practical,2026-01-07,25
+35,7,Mid Term Exam 35,Mid Term,2025-11-26,75
+36,4,Practical Exam 36,Practical,2025-11-16,100
+37,17,Practical Exam 37,Practical,2026-05-13,75
+38,16,Quiz Exam 38,Quiz,2026-07-04,25
+39,16,Quiz Exam 39,Quiz,2026-02-07,75
+40,4,Mid Term Exam 40,Mid Term,2026-02-08,75
